@@ -1,3 +1,4 @@
+//메일보내는 js
 const { error, info } = require('console');
 const nodemailer = require('nodemailer');
 const { text } = require('stream/consumers');
